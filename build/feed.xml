@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media MT - Câmara de Mediação e Arbitragem - Em breve estaremos no ar - Código5 WEB</title>
-    <description></description>
+    <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     <link>http://www.mediamt.com.br/</link>
     <atom:link href="http://www.mediamt.com.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jan 2017 14:00:00 -0300</pubDate>
-    <lastBuildDate>Thu, 12 Jan 2017 14:00:00 -0300</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <pubDate>2017-01-12 13:59:08 -0300</pubDate>
+    <lastBuildDate>2017-01-12 13:59:08 -0300</lastBuildDate>
+    <generator>Jekyll v</generator>
     
   </channel>
 </rss>
